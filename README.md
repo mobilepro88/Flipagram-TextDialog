@@ -1,5 +1,5 @@
 # Flipagram-TextDialog
-Customized a text dialog similiar to Flipagram
+Create Flipagram style textdialog.
 
 ![Screenshot](http://i.imgur.com/6tQQX4Al.png)
 ![Screenshot](http://i.imgur.com/Kal1QdSl.png)
